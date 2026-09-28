@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ]
@@ -186,9 +186,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9c90867e81d25d1c",
+  "active": "9f303c775f03e576",
   "lastOpenFiles": [
     "未命名",
-    "Welcome.md"
+    "README.md"
   ]
 }

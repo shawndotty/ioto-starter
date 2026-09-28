@@ -4,7 +4,7 @@
 IOTO启动库是为了让Obsidian新手能快速使用Obsidian和IOTO而准备的一个极简库。
 
 ## 文件和文件夹
-- 只有一个Welcome文件
+- 只有一个README文件
 - 没有预设文件夹
 - 在部署IOTO的过程中会自动创建相关的文件夹
 
