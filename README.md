@@ -1,4 +1,4 @@
-![IOTO-SUV-Obsidiland-L.png](https://wafer-1257318448.cos.ap-guangzhou.myqcloud.com/IOTO-SUV-Obsidiland-L.png)
+![](https://wafer-1257318448.cos.ap-guangzhou.myqcloud.com/20260929072318131.png)
 
 # 关于IOTO启动库
 IOTO启动库是为了让Obsidian新手能快速使用Obsidian和IOTO而准备的一个极简库。
