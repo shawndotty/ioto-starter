@@ -1,6 +1,6 @@
 ![](https://wafer-1257318448.cos.ap-guangzhou.myqcloud.com/20260929072821426.png)
 
-# 关于IOTO启动库kkl'jk'ld'js'f'kl'a'js
+# 关于IOTO启动库
 IOTO启动库是为了让Obsidian新手能快速使用Obsidian和IOTO而准备的一个极简库。
 
 ## 文件和文件夹
